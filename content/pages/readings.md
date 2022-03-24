@@ -71,7 +71,7 @@ Race and Childhood
 {{< tdopen >}}
 
 
-Kilpatrick, Jacquelyn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Disney's 'politically correct' Pocahontas." (PDF)](https://silo.tips/download/disneys-politically-correct-pocahontas-by-kilpatrick-jacquelyn-cineaste-dec95-vo) _Cineaste_ 21, no. 4 (1995): 00097004.
+Kilpatrick, Jacquelyn. ["Disney's 'politically correct' Pocahontas." (PDF)](https://silo.tips/download/disneys-politically-correct-pocahontas-by-kilpatrick-jacquelyn-cineaste-dec95-vo) _Cineaste_ 21, no. 4 (1995): 00097004.
 
 Kohl, Herbert R. _Should We Burn Babar?: Essays on Children's Literature and the Power of Stories_. New Press, 1996. ISBN: 9781565842595.
 
@@ -122,7 +122,7 @@ White Rescue and Black Helplessness
 
 Gladwell, Malcom. "[The Courthouse Ring: Atticus Finch and the Limits of Southern Liberalism](http://www.newyorker.com/reporting/2009/08/10/090810fa_fact_gladwell)," _The New Yorker,_ August 10, 2009. Politics and Prose.
 
-Association of Black Women Historians. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Open Statement to Fans of The Help."](https://aalbc.com/reviews/the_help_historical_context.html)
+Association of Black Women Historians. ["An Open Statement to Fans of The Help."](https://aalbc.com/reviews/the_help_historical_context.html)
 
 George, Nelson. "[Still Too Good, Too Bad or Invisible](http://www.nytimes.com/2013/02/17/movies/awardsseason/black-characters-are-still-too-good-too-bad-or-invisible.html?_r=0)," _The New York Times_, February 15, 2013.
 
